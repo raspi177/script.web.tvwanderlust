@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<window type="window">
+    <controls>
+        <control type="button" id="104">
+            <description>My first button control</description>
+            <label>$ADDON[script.web.tvwanderlust 32001]</label>
+            <posx>280</posx>
+            <posy>630</posy>
+            <width>200</width>
+            <height>50</height>
+        </control>
+        <control type="button" id="105">
+            <description>My first button control</description>
+            <label>$ADDON[script.web.tvwanderlust 32002]</label>
+            <posx>530</posx>
+            <posy>630</posy>
+            <width>200</width>
+            <height>50</height>
+        </control>
+        <control type="button" id="106">
+            <description>My first button control</description>
+            <label>$ADDON[script.web.tvwanderlust 32003]</label>
+            <posx>780</posx>
+            <posy>630</posy>
+            <width>200</width>
+            <height>50</height>
+        </control>
+
+        <control type="label">
+         <posx>1000</posx>
+         <posy>60</posy>
+         <width>200</width>
+         <height>40</height>
+         <label>fahrplan.oebb.at</label>
+        </control>
+
+<control type="label" id="1000">
+ <posx>60</posx>
+ <posy>130</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="1001">
+ <posx>260</posx>
+ <posy>130</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="1002">
+ <posx>460</posx>
+ <posy>130</posy>
+ <width>600</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+ 
+<control type="label" id="2000">
+ <posx>60</posx>
+ <posy>230</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="2001">
+ <posx>260</posx>
+ <posy>230</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="2002">
+ <posx>460</posx>
+ <posy>230</posy>
+ <width>600</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+ 
+<control type="label" id="3000">
+ <posx>60</posx>
+ <posy>330</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="3001">
+ <posx>260</posx>
+ <posy>330</posy>
+ <width>200</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+<control type="label" id="3002">
+ <posx>460</posx>
+ <posy>330</posy>
+ <width>600</width>
+ <height>70</height>
+ <font>font45caps_title</font>
+ <aligny>center</aligny>
+ <label></label>
+</control>
+
+    </controls>
+</window>
